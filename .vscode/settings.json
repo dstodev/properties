@@ -1,0 +1,5 @@
+{
+	// For intellisense to work, this path must be the same
+	// as the compile_commands path in c_cpp_properties.json
+	"cmake.buildDirectory": "${workspaceFolder}/build"
+}
